@@ -2,8 +2,7 @@ package kata1;
 
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
+
 
 public class Person {
     private final String Name;
